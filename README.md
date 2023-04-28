@@ -16,7 +16,13 @@
 # SASS/SCSS
   <a href='https://elegant-taiyaki-2de11e.netlify.app/'>Natoures<a/>------- <a href='https://github.com/kiancodemy/Natour-project-by-sass'>codes<a/>
     <br>
-  <a href='https://trillo-elmi-elmi.netlify.app/'>trilo<a/>------- <a href='https://github.com/kiancodemy/trilo'>codes<a/>
+  <a href='https://trillo-elmi-elmi.netlify.app/'>trilo<a/>------- <a href='https://github.com/kiancodemy/trilo'>codes (flex box)<a/>
+  <br>
+  <a href='https://app.netlify.com/teams/kiancodemy/builds/644b926b6b8a157d4c7473a8'>Nexter<a/>------- <a href='https://github.com/kiancodemy/Nexter'>codes (grid)<a/>
+
+
+
+ 
     
  # REACT.js
    <a href='https://willowy-moonbeam-20cde0.netlify.app/'>Redux toolkit project<a/>------- <a href='https://github.com/kiancodemy/React-project-reduxtooklit'>codes<a/>v
