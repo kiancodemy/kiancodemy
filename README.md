@@ -27,7 +27,7 @@
    <br>
    <a href='https://dashing-semifreddo-078f57.netlify.app/'>React project<a/>------- <a href='https://github.com/kiancodemy/React-project-useState-'>codes<a/>
    <br>
- # NEXT.J
+ # Next.Js
         
    <a href='https://master--silver-donut-a4eee0.netlify.app/'>Next (Router)<a/>------- <a href='https://github.com/kiancodemy/Next.js-project-Router-'>codes<a/>
   
