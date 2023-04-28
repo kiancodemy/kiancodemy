@@ -18,7 +18,7 @@
     <br>
   <a href='https://trillo-elmi-elmi.netlify.app/'>trilo<a/>------- <a href='https://github.com/kiancodemy/trilo'>codes (flex box)<a/>
   <br>
-  <a href='https://app.netlify.com/teams/kiancodemy/builds/644b926b6b8a157d4c7473a8'>Nexter<a/>------- <a href='https://github.com/kiancodemy/Nexter'>codes (grid)<a/>
+  <a href='https://master--stunning-squirrel-db98b2.netlify.app/'>Nexter<a/>------- <a href='https://github.com/kiancodemy/Nexter'>codes (grid)<a/>
 
 
 
@@ -27,7 +27,7 @@
  # REACT.js
    <a href='https://willowy-moonbeam-20cde0.netlify.app/'>Redux toolkit project<a/>------- <a href='https://github.com/kiancodemy/React-project-reduxtooklit'>codes<a/>v
      <br>
-   <a href='https://euphonious-bavarois-44c7ee.netlify.app/'>project by Use (state,effect,reft)<a/>------- <a href='https://github.com/kiancodemy/React-project-usState-          useEffect-useRef-'>codes<a/>
+   <a href='https://euphonious-bavarois-44c7ee.netlify.app/'>project by Use (state,effect,ref)<a/>------- <a href='https://github.com/kiancodemy/React-project-usState-          useEffect-useRef-'>codes<a/>
    <br>
    <a href='https://willowy-halva-09c253.netlify.app/'>Add Items<a/>------- <a href='https://github.com/kiancodemy/React-Add-items-'>codes<a/>
    <br>
