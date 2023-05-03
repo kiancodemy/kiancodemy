@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-# HTML & CSS
-<a href='https://heroic-chimera-c184bc.netlify.app/'>omnifood<a/>------- <a href='https://github.com/kiancodemy/Resturant-project-by-html-and-css'>codes<a/>
 # JavaScript
   <a href='https://glittery-pothos-b39059.netlify.app/'>CountDown<a/>------- <a href='https://github.com/kiancodemy/Countdown-project'>codes<a/>
   <br>
@@ -12,13 +10,21 @@
    <a href='https://github.com/kiancodemy/Spock-Rock-Game'>Spock Rock game<a/>------- <a href='https://github.com/kiancodemy/Spock-Rock-Game'>codes<a/>
   <br>
   
-  
-# SASS/SCSS
+   # HTML & CSS
+   <a href='https://heroic-chimera-c184bc.netlify.app/'>omnifood<a/>------- <a href='https://github.com/kiancodemy/Resturant-project-by-html-and-css'>codes<a/>
+     
+  <h3>SASS/SCSS</h3> 
+  <br>
   <a href='https://elegant-taiyaki-2de11e.netlify.app/'>Natoures<a/>------- <a href='https://github.com/kiancodemy/Natour-project-by-sass'>codes<a/>
     <br>
   <a href='https://trillo-elmi-elmi.netlify.app/'>trilo<a/>------- <a href='https://github.com/kiancodemy/trilo'>codes (flex box)<a/>
   <br>
   <a href='https://master--stunning-squirrel-db98b2.netlify.app/'>Nexter<a/>------- <a href='https://github.com/kiancodemy/Nexter'>codes (grid)<a/>
+  <h3> Tailwindcss</h3> 
+     <a href='https://master--stunning-squirrel-db98b2.netlify.app/'>Nexter<a/>------- <a href='https://github.com/kiancodemy/Nexter'>codes (grid)<a/>
+
+  
+  
 
 
 
