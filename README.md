@@ -21,9 +21,11 @@
   <br>
   <a href='https://master--stunning-squirrel-db98b2.netlify.app/'>Nexter<a/>------- <a href='https://github.com/kiancodemy/Nexter'>codes (grid)<a/>
   <h3> Tailwindcss</h3> 
-     <a href='https://scintillating-tarsier-26c1eb.netlify.app/'>Nexter<a/>------- <a href='https://github.com/kiancodemy/mini-tail-1'>codes<a/>
-     <a href='https://unique-kheer-3b8621.netlify.app/'>Nexter<a/>------- <a href='https://github.com/kiancodemy/mini-tail-2'>codes )<a/>
-     <a href='https://spontaneous-melomakarona-5f8be0.netlify.app/'>Nexter<a/>------- <a href='https://github.com/kiancodemy/mini-taill-3'>codes<a/>
+     <a href='https://scintillating-tarsier-26c1eb.netlify.app/'>mini-project 1<a/>------- <a href='https://github.com/kiancodemy/mini-tail-1'>codes<a/>
+     <br>
+     <a href='https://unique-kheer-3b8621.netlify.app/'>mini-project 2<a/>------- <a href='https://github.com/kiancodemy/mini-tail-2'>codes<a/>
+     <br>
+     <a href='https://spontaneous-melomakarona-5f8be0.netlify.app/'>mini-project 3<a/>------- <a href='https://github.com/kiancodemy/mini-taill-3'>codes<a/>
   <br>
        
  # React.js
