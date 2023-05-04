@@ -13,7 +13,7 @@
    # HTML & CSS
    <a href='https://heroic-chimera-c184bc.netlify.app/'>omnifood<a/>------- <a href='https://github.com/kiancodemy/Resturant-project-by-html-and-css'>codes<a/>
      
-  <h2>SASS/SCSS</h2> 
+   <h2>SASS/SCSS</h2> 
   <br>
   <a href='https://elegant-taiyaki-2de11e.netlify.app/'>Natoures<a/>------- <a href='https://github.com/kiancodemy/Natour-project-by-sass'>codes<a/>
     <br>
@@ -21,10 +21,12 @@
   <br>
   <a href='https://master--stunning-squirrel-db98b2.netlify.app/'>Nexter<a/>------- <a href='https://github.com/kiancodemy/Nexter'>codes (grid)<a/>
   <h3> Tailwindcss</h3> 
-     <a href='https://master--stunning-squirrel-db98b2.netlify.app/'>Nexter<a/>------- <a href='https://github.com/kiancodemy/Nexter'>codes (grid)<a/>
+     <a href='https://scintillating-tarsier-26c1eb.netlify.app/'>Nexter<a/>------- <a href='https://github.com/kiancodemy/mini-tail-1'>codes<a/>
+     <a href='https://unique-kheer-3b8621.netlify.app/'>Nexter<a/>------- <a href='https://github.com/kiancodemy/mini-tail-2'>codes )<a/>
+     <a href='https://spontaneous-melomakarona-5f8be0.netlify.app/'>Nexter<a/>------- <a href='https://github.com/kiancodemy/mini-taill-3'>codes<a/>
   <br>
        
- # REACT.js
+ # React.js
        
    <a href='https://willowy-moonbeam-20cde0.netlify.app/'>Redux toolkit project<a/>------- <a href='https://github.com/kiancodemy/React-project-reduxtooklit'>codes<a/>v
    <br>
