@@ -1,4 +1,4 @@
-## projects && links 👋
+## 📒 projects && links 
 
 # JavaScript
   <a href='https://glittery-pothos-b39059.netlify.app/'>CountDown<a/>------- <a href='https://github.com/kiancodemy/Countdown-project'>codes<a/>
