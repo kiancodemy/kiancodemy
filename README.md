@@ -32,7 +32,7 @@
        
    <a href='https://willowy-moonbeam-20cde0.netlify.app/'>Redux toolkit project<a/>------- <a href='https://github.com/kiancodemy/store-by-redux-toolkit'>codes<a/>
      <br>
-       <a href='https://github.com/kiancodemy/store-by-redux-toolkit'>store by Redux toolkit <a/>------- <a href='https://github.com/kiancodemy/Resturant-project-by-html-and-css'>codes<a/>
+       <a href='https://animated-bonbon-cc46ca.netlify.app/'>store by Redux toolkit <a/>------- <a href='https://github.com/kiancodemy/Resturant-project-by-html-and-css'>codes<a/>
    <br>
        <a href='https://effortless-rabanadas-077f89.netlify.app/'>project 5<a/>------- <a href='https://github.com/kiancodemy/simple-pro-5'>codes<a/>
      <br>
