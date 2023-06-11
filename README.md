@@ -28,6 +28,8 @@
      <br>
      <a href='https://spontaneous-melomakarona-5f8be0.netlify.app/'>mini-project 3<a/>------- <a href='https://github.com/kiancodemy/mini-taill-3'>codes<a/>
   <br>
+ #<h2>TypeScript</h2>
+    <h3>Mini react-typescript pro</h3>   =>>  <a href='https://github.com/kiancodemy/REact-typescript'>codes<a/>
         
  # React.js
        
