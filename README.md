@@ -1,4 +1,4 @@
-## <p>Hi, it's almost two years since a started to learn about the world of programming and the knowledge that is required to become a frontend developer.I'm passionate to improve my skills by learning every day </p>
+## <p>Hi, it's almost two years since i started to learn about the world of programming and the knowledge that is needed to become a frontend developer.I'm passionate to improve my skills by learning every day </p>
 ## 📒 projects && links 
 
 # JavaScript
