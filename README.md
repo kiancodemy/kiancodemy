@@ -22,7 +22,7 @@
   <br>
   <a href='https://master--stunning-squirrel-db98b2.netlify.app/'>Nexter<a/>------- <a href='https://github.com/kiancodemy/Nexter'>codes (grid)<a/>
   <h3> Tailwindcss</h3> 
-     <a href='https://scintillating-tarsier-26c1eb.netlify.app/'>mini-project 1<a/>------- <a href='https://github.com/kiancodemy/mini-tail-1'>codes<a/>
+     <a href='https://scintillating-tarsier-26c1eb.netlify.app/'>mini-project 1<a/>------- <a href='https://github.com/kiancodemy/tailwind-email'>codes<a/>
      <br>
      <a href='https://unique-kheer-3b8621.netlify.app/'>mini-project 2<a/>------- <a href='https://github.com/kiancodemy/https://github.com/kiancodemy/tailwind-email'>codes<a/>
      <br>
