@@ -10,9 +10,19 @@
   <br>
    <a href='https://github.com/kiancodemy/Spock-Rock-Game'>Spock Rock game<a/>------- <a href='https://github.com/kiancodemy/Spock-Rock-Game'>codes<a/>
   <br>
+  <a href='https://exquisite-sunburst-6ac1e8.netlify.app'>lazyloading-desktop<a/>------- <a href='https://github.com/kiancodemy/javascript-lazyloading'>codes<a/>
   
    # HTML & CSS
    <a href='https://heroic-chimera-c184bc.netlify.app/'>omnifood<a/>------- <a href='https://github.com/kiancodemy/Resturant-project-by-html-and-css'>codes<a/>
+      <br>
+      <a href='https://bespoke-pastelito-1900bf.netlify.app'>testimonal -grid<a/>------- <a href='https://github.com/kiancodemy/testimonial--grid'>codes<a/>
+      <br>
+      <a href='https://inspiring-bavarois-b618b9.netlify.app/'>mini-css-2<a/>------- <a href='https://github.com/kiancodemy/mini-css-2'>codes<a/>
+       <br>
+      <a href='https://inspiring-bavarois-b618b9.netlify.app'>mini-css-1<a/>------- <a href='https://github.com/kiancodemy/mini-css-1'>codes<a/>
+   
+  
+   
      
    <h2>SASS/SCSS</h2> 
   <br>
@@ -22,7 +32,7 @@
   <br>
   <a href='https://master--stunning-squirrel-db98b2.netlify.app/'>Nexter<a/>------- <a href='https://github.com/kiancodemy/Nexter'>codes (grid)<a/>
   <h3> Tailwindcss</h3> 
-     <a href='https://scintillating-tarsier-26c1eb.netlify.app/'>mini-project 1<a/>------- <a href='https://github.com/kiancodemy/tailwind-email'>codes<a/>
+     <a href='https://symphonious-tarsier-a1da4d.netlify.app'>mini-project 1<a/>------- <a href='https://github.com/kiancodemy/tailwind-email'>codes<a/>
      <br>
      <a href='https://unique-kheer-3b8621.netlify.app/'>mini-project 2<a/>------- <a href='https://github.com/kiancodemy/https://github.com/kiancodemy/tailwind-email'>codes<a/>
      <br>
