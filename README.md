@@ -12,7 +12,7 @@
   <br>
   <a href='https://exquisite-sunburst-6ac1e8.netlify.app'>lazyloading-desktop<a/>------- <a href='https://github.com/kiancodemy/javascript-lazyloading'>codes<a/>
     <br>
-  <a href='https://effulgent-medovik-5a72ad.netlify.app/'>simple age calculator<a/>------- <a href='https://github.com/kiancodemy/age-calculator'>codes<a/>
+  <a href='https://friendly-arithmetic-f77931.netlify.app'>simple age calculator<a/>------- <a href='https://github.com/kiancodemy/age-calculator'>codes<a/>
   
    # HTML & CSS
    <a href='https://heroic-chimera-c184bc.netlify.app/'>omnifood<a/>------- <a href='https://github.com/kiancodemy/Resturant-project-by-html-and-css'>codes<a/>
