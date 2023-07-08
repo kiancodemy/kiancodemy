@@ -64,10 +64,10 @@
        <a href='https://ubiquitous-starship-8cb4c5.netlify.app/'>project 2<a/>------- <a href='https://github.com/kiancodemy/simple-pro-2'>codes<a/>
      <br>
   
-  <a href='https://dashing-semifreddo-078f57.netlify.app/'>React project<a/>------- <a href='https://github.com/kiancodemy/React-project-useState-'>codes<a/>
-   <br>
+<a href='https://dashing-semifreddo-078f57.netlify.app/'>React project<a/>------- <a href='https://github.com/kiancodemy/React-project-useState-'>codes<a/>
+     <br>
  
-    <a href='https://vocal-tiramisu-66adca.netlify.app/'>project 1<a/>------- <a href='https://github.com/kiancodemy/simple-pro-1'>codes<a/>
+<a href='https://vocal-tiramisu-66adca.netlify.app/'>project 1<a/>------- <a href='https://github.com/kiancodemy/simple-pro-1'>codes<a/>
      <br>
   
  <h2>Next.Js</h2> 
