@@ -59,7 +59,7 @@
        
    <a href='https://willowy-moonbeam-20cde0.netlify.app/'>Redux toolkit project<a/>------- <a href='https://github.com/kiancodemy/store-by-redux-toolkit'>codes<a/>
      <br>
-       <a href='https://relaxed-macaron-91fe4f.netlify.app'>store by Redux toolkit <a/>------- <a href='https://github.com/kiancodemy/store-by-redux-toolkit'>codes<a/>
+       <a href='https://deft-daifuku-2ef790.netlify.app'>store by Redux toolkit <a/>------- <a href='https://github.com/kiancodemy/store-by-redux-toolkit'>codes<a/>
    <br>
     
 <a href='https://benevolent-tulumba-fab0d8.netlify.app/'>Add and edit books <a/>------- <a href='https://github.com/kiancodemy/React-project-useState-'>codes<a/>
