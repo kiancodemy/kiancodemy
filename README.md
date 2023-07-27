@@ -43,9 +43,10 @@
      <a href='https://unique-kheer-3b8621.netlify.app/'>mini-project 2<a/>------- <a 
  href='https://github.com/kiancodemy/https://github.com/kiancodemy/tailwind-email'>codes<a/>
      <br>
- <a href='https://spontaneous-melomakarona-5f8be0.netlify.app/'>mini-project 3<a/>------- <a href='https://github.com/kiancodemy/persina-react-tailwind-project'>codes<a/>
+  
+ <a href='https://elaborate-bublanina-0c31f6.netlify.app/'>mini-project 3<a/>------- <a href=' https://github.com/kiancodemy/mini-taill-3'>codes<a/>
      <br>
-   <a href='https://earnest-heliotrope-a2d4c6.netlify.app/'>react-tailwind-project<a/>------- <a href='https://github.com/kiancodemy/mini-taill-3'>codes<a/>
+   <a href='https://earnest-heliotrope-a2d4c6.netlify.app/'>react-tailwind-project<a/>------- <a href='https://github.com/kiancodemy/persina-react-tailwind-project'>codes<a/>
   <br>
  <h2>TypeScript</h2>
     <h3>Mini react-typescript pro</h3>   =>>  <a href='https://github.com/kiancodemy/React-typescript'>codes<a/>
