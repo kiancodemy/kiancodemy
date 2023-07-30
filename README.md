@@ -8,11 +8,11 @@
     <br>
   <a href='https://glittery-pothos-b39059.netlify.app/'>CountDown<a/>------- <a href='https://github.com/kiancodemy/Countdown-project'>codes<a/>
   <br>
-   <a href='https://641c648dd7421a08ee4da125--amazing-churros-9eecf9.netlify.app/'>Music Player<a/>------- <a href='https://github.com/kiancodemy/Music-player-project'>codes<a/>
+   <a href='https://amazing-churros-9eecf9.netlify.app/'>Music Player<a/>------- <a href='https://github.com/kiancodemy/Music-player-project'>codes<a/>
   <br>
    <a href='https://capable-kangaroo-0fe44b.netlify.app/'>Calculator<a/>------- <a href='https://github.com/kiancodemy/Calculator'>codes<a/>
   <br>
-   <a href='https://github.com/kiancodemy/Spock-Rock-Game'>Spock Rock game<a/>------- <a href='https://github.com/kiancodemy/Spock-Rock-Game'>codes<a/>
+   <a href='https://stalwart-narwhal-c58b66.netlify.app'>Spock Rock game<a/>------- <a href='https://github.com/kiancodemy/Spock-Rock-Game'>codes<a/>
   <br>
    <a href='https://friendly-arithmetic-f77931.netlify.app'>simple age calculator<a/>------- <a href='https://github.com/kiancodemy/age-calculator'>codes<a/>
 
