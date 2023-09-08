@@ -46,7 +46,7 @@
      <br>
  
  <h2>TypeScript</h2>
-    <h3>Mini react-typescript pro</h3>   =>>  <a href='https://github.com/kiancodemy/React-typescript'>codes<a/>
+    <h3>Mini react-typescript pro</h3>   =>>  <a href='https://github.com/kiancodemy/Typescript'>codes<a/>
         
  # React.js
    <a href='https://melodic-kleicha-12ea56.netlify.app/'>Order food<a/>------- <a href='https://github.com/kiancodemy/React-order-food'>codes<a/>
