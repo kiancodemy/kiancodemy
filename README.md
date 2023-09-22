@@ -36,14 +36,11 @@
   <br>
   <a href='https://master--stunning-squirrel-db98b2.netlify.app/'>Nexter<a/>------- <a href='https://github.com/kiancodemy/Nexter'>codes (grid)<a/>
   <h3> Tailwindcss</h3> 
-     <a href='https://symphonious-tarsier-a1da4d.netlify.app'>mini-project 1<a/>------- <a href='https://github.com/kiancodemy/tailwind-email'>codes<a/>
-     <br>
-     <a href='https://unique-kheer-3b8621.netlify.app/'>mini-project 2<a/>------- <a 
- href='https://github.com/kiancodemy/https://github.com/kiancodemy/tailwind-email'>codes<a/>
+    <br>
+     <a href='https://elaborate-tulumba-3e0b4f.netlify.app/'>tailwind pro<a/>------- <a href='https://github.com/kiancodemy/tailwind-clipboard'>codes<a/>
      <br>
   
- <a href='https://elaborate-bublanina-0c31f6.netlify.app/'>mini-project 3<a/>------- <a href=' https://github.com/kiancodemy/mini-taill-3'>codes<a/>
-     <br>
+
  
  <h2>TypeScript</h2>
     <h3>Mini react-typescript pro</h3>   =>>  <a href='https://github.com/kiancodemy/Typescript'>codes<a/>
