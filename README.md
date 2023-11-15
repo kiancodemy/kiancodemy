@@ -21,8 +21,7 @@
    # HTML & CSS
    <a href='https://heroic-chimera-c184bc.netlify.app/'>omnifood<a/>------- <a href='https://github.com/kiancodemy/Resturant-project-by-html-and-css'>codes<a/>
       <br>
-      <a href='https://voluble-melba-50a20f.netlify.app'>testimonal -grid<a/>------- <a href='https://github.com/kiancodemy/testimonial--grid'>codes<a/>
-      <br>
+    
       
    
   
