@@ -46,8 +46,10 @@
  # React.js and Next.Js
    <a href='https://luminous-cannoli-250e6a.netlify.app/'>Ecommerce project<a/>------- <a href='https://github.com/kiancodemy/ec'>codes<a/>
      <br>
+     
    <a href='https://famsec-nextjs.vercel.app/'>landing page<a/>------- <a href='https://github.com/kiancodemy/-nextjs-typescript'>codes<a/><span>=>not completed</span>
      <br>
+     
    <a href='https://melodic-kleicha-12ea56.netlify.app/'>Order food<a/>------- <a href='https://github.com/kiancodemy/React-order-food'>codes<a/>
      <br>
      
