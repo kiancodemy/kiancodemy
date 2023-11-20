@@ -4,7 +4,7 @@
 # JavaScript
   <a href='https://exquisite-sunburst-6ac1e8.netlify.app'>lazyloading <a/>------- <a href='https://github.com/kiancodemy/lazy'>codes<a/>
     <br>
-   <a href='https://bright-rabanadas-c75c59.netlify.app'>Ecomerce landing page <a/>------- <a href='https://github.com/kiancodemy/Ecomrece-project'>codes<a/>
+   <a href='https://bright-rabanadas-c75c59.netlify.app'>Ecomerce landing page <a/>------- <a href='https://github.com/kiancodemy/Ecomrece-project'>codes<a/> 
     <br>
   <a href='https://glittery-pothos-b39059.netlify.app/'>CountDown<a/>------- <a href='https://github.com/kiancodemy/Countdown-project'>codes<a/>
   <br>
@@ -46,7 +46,7 @@
  # React.js and Next.Js
    <a href='https://luminous-cannoli-250e6a.netlify.app/'>Ecommerce project<a/>------- <a href='https://github.com/kiancodemy/ec'>codes<a/>
      <br>
-   <a href='https://famsec-nextjs.vercel.app/'>landing page<a/>------- <a href='https://github.com/kiancodemy/-nextjs-typescript'>codes<a/>
+   <a href='https://famsec-nextjs.vercel.app/'>landing page<a/>------- <a href='https://github.com/kiancodemy/-nextjs-typescript'>codes<a/><span>=>not completed</span>
      <br>
    <a href='https://melodic-kleicha-12ea56.netlify.app/'>Order food<a/>------- <a href='https://github.com/kiancodemy/React-order-food'>codes<a/>
      <br>
