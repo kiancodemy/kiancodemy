@@ -4,8 +4,8 @@
 # JavaScript
   <a href='https://exquisite-sunburst-6ac1e8.netlify.app'>lazyloading <a/>------- <a href='https://github.com/kiancodemy/lazy'>codes<a/>
     <br>
-   <a href='https://bright-rabanadas-c75c59.netlify.app'>Ecomerce landing page <a/>------- <a href='https://github.com/kiancodemy/Ecomrece-project'>codes<a/> 
-    <br>
+ 
+    
   <a href='https://glittery-pothos-b39059.netlify.app/'>CountDown<a/>------- <a href='https://github.com/kiancodemy/Countdown-project'>codes<a/>
   <br>
    <a href='https://amazing-churros-9eecf9.netlify.app/'>Music Player<a/>------- <a href='https://github.com/kiancodemy/Music-player-project'>codes<a/>
