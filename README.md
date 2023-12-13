@@ -42,7 +42,7 @@
  
   <h2>TypeScript</h2>
 
-  <a href='https://majestic-horse-d7f643.netlify.app/'>tailwind pro<a/>------- <a href='https://github.com/kiancodemy/Typescript'>codes<a/>
+  <a href='https://majestic-horse-d7f643.netlify.app/'>type script small<a/>------- <a href='https://github.com/kiancodemy/Typescript'>codes<a/>
         
  # React.js and Next.Js
    <a href='https://luminous-cannoli-250e6a.netlify.app/'>Ecommerce project<a/>------- <a href='https://github.com/kiancodemy/ec'>codes<a/>
