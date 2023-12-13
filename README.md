@@ -40,9 +40,9 @@
   
 
  
- <h2>TypeScript</h2>
+  <h2>TypeScript</h2>
 
-    <a href= 'https://typescript-8qf1.vercel.app/'>tailwind pro<a/>------- <a href='https://github.com/kiancodemy/Typescript'>codes<a/>
+  <a href='https://typescript-8qf1.vercel.app/'>tailwind pro<a/>------- <a href='https://github.com/kiancodemy/Typescript'>codes<a/>
         
  # React.js and Next.Js
    <a href='https://luminous-cannoli-250e6a.netlify.app/'>Ecommerce project<a/>------- <a href='https://github.com/kiancodemy/ec'>codes<a/>
