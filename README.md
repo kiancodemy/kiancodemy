@@ -62,13 +62,7 @@
        
    <a href='https://genuine-melomakarona-043297.netlify.app'>Redux toolkit project<a/>------- <a href='https://github.com/kiancodemy/React-project-reduxtooklit'>codes<a/>
      <br>
-       <a href='https://deft-daifuku-2ef790.netlify.app'>store by Redux toolkit <a/>------- <a href='https://github.com/kiancodemy/store-by-redux-toolkit'>codes<a/>
-   <br>
-    
-<a href='https://benevolent-tulumba-fab0d8.netlify.app/'>Add and edit books <a/>------- <a href='https://github.com/kiancodemy/React-project-useState-'>codes<a/>
-     <br>
-       <a href='https://effortless-rabanadas-077f89.netlify.app/'>router project<a/>------- <a href='https://github.com/kiancodemy/simple-pro-5'>codes<a/>
-     <br>
+     
 
  
 
