@@ -60,8 +60,7 @@
    <a href='https://marvelous-faun-f87ad2.netlify.app'>Expense calculator<a/>------- <a href='https://github.com/kiancodemy/React-main'>codes<a/>
      <br>
        
-   <a href='https://genuine-melomakarona-043297.netlify.app'>Redux toolkit project<a/>------- <a href='https://github.com/kiancodemy/React-project-reduxtooklit'>codes<a/>
-     <br>
+
      
 
  
