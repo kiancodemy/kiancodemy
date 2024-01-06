@@ -45,8 +45,8 @@
   <a href='https://majestic-horse-d7f643.netlify.app/'>TypeScript small<a/>------- <a href='https://github.com/kiancodemy/Typescript'>codes<a/>
         
  # React.js and Next.Js
-   <a href='https://luminous-cannoli-250e6a.netlify.app/'>mern stack project <a/>------- <a 
-    href='https://github.com/kiancodemy/ec'>codes<a/><span> ( Node Express React React-bootstrap Redux-Toolkit<span/> )
+   <span>mern stack project (not completed) <span/>------- <a 
+    href='https://github.com/kiancodemy/ec'>codes<a/><span> ( Node , Express, React, React-bootstrap, Redux-Toolkit<span/> )
      <br>
    <a href='https://luminous-cannoli-250e6a.netlify.app/'>Ecommerce project<a/>------- <a href='https://github.com/kiancodemy/ec'>codes<a/><span> ( React React-router Tailwind Use- 
     context<span/> )
