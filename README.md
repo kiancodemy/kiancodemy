@@ -48,7 +48,7 @@
    <span>mern stack project (not completed) <span/>------- <a 
     href='https://github.com/kiancodemy/mernstack'>codes<a/><span> ( Node , Express, React, React-bootstrap, Redux-Toolkit<span/> )
      <br>
-   <a href='https://luminous-cannoli-250e6a.netlify.app/'>Ecommerce project<a/>------- <a href='https://github.com/kiancodemy/ec'>codes<a/><span> ( React React-router , Tailwind , Use- 
+   <a href='https://luminous-cannoli-250e6a.netlify.app/'>Ecommerce project<a/>------- <a href='https://github.com/kiancodemy/ec'>codes<a/><span> ( React,React-hook-form, React-router , Tailwind , Use- 
     context )<span/> 
      <br>
      
