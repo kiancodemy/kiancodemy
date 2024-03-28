@@ -1,8 +1,8 @@
 ## <p>Hi, it is been few years  since i started to learn about the world of programming and knowledge that is needed to become a frontend developer.I'm passionate to improve my skills by learning every day </p>
 ## 📒 projects && links 
  # React.js and Next.Js
-   <span>mern stack project (not completed) <span/>------- <a 
-    href='https://github.com/kiancodemy/mernstack'>codes<a/><span> ( Node, Express, React, React-bootstrap, Redux-Toolkit<span/> )
+   <span>mern stack project<span/>------- <a 
+    href='https://github.com/kiancodemy/mernstack'>codes<a/><span> ( Node, Express, React, material ui , Redux-Toolkit and rtk query, react-hook-form<span/> )
      <br>
    <a href='https://luminous-cannoli-250e6a.netlify.app/'>Ecommerce project<a/>------- <a href='https://github.com/kiancodemy/ec'>codes<a/><span> ( React, React-hook-form, React-router, 
  Tailwind, Use- 
