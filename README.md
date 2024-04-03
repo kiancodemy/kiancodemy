@@ -1,12 +1,17 @@
-## <p>Hi, it is been few years  since i started to learn about the world of programming and knowledge that is needed to become a frontend developer.I'm passionate to improve my skills by learning every day </p>
-## 📒 projects && links 
+<p>👋 Hey there! I'm kian kheirani, software engineer on a perpetual quest for knowledge and innovation. With 4 years of experience, I'm dedicated to staying at the forefront of technology by continuously learning and embracing emerging trends.
+
+My GitHub is a reflection of my journey as I explore new technologies, experiment with cutting-edge frameworks, and refine my skills. Join me as I evolve alongside the ever-changing landscape of software development, always seeking better solutions and pushing the boundaries of what's possible.</p>
+
+## projects && links 
  # React.js and Next.Js
-    <span>chat app (socket.io)<span/>------- <a 
+   <span>chat app (socket.io)<span/>------- <a 
     href='https://github.com/kiancodemy/mernstack'>codes<a/><span> (socket.io, Node, Express, React, material ui ,react-hook-form<span/> )
      <br>
+     
    <span>mern stack project<span/>------- <a 
     href='https://github.com/kiancodemy/mernstack'>codes<a/><span> ( Node, Express, React, material ui , Redux-Toolkit and rtk query, react-hook-form<span/> )
      <br>
+     
    <a href='https://luminous-cannoli-250e6a.netlify.app/'>Ecommerce project<a/>------- <a href='https://github.com/kiancodemy/ec'>codes<a/><span> ( React, React-hook-form, React-router, 
  Tailwind, Use- 
     context )<span/> 
