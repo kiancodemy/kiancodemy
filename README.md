@@ -29,13 +29,7 @@
     
   <a href='https://glittery-pothos-b39059.netlify.app/'>CountDown<a/>------- <a href='https://github.com/kiancodemy/Countdown-project'>codes<a/>
   <br>
-   <a href='https://amazing-churros-9eecf9.netlify.app/'>Music Player<a/>------- <a href='https://github.com/kiancodemy/Music-player-project'>codes<a/>
-  <br>
-   <a href='https://capable-kangaroo-0fe44b.netlify.app/'>Calculator<a/>------- <a href='https://github.com/kiancodemy/Calculator'>codes<a/>
-  <br>
-   <a href='https://stalwart-narwhal-c58b66.netlify.app'>Spock Rock game<a/>------- <a href='https://github.com/kiancodemy/Spock-Rock-Game'>codes<a/>
-  <br>
-   <a href='https://friendly-arithmetic-f77931.netlify.app'>simple age calculator<a/>------- <a href='https://github.com/kiancodemy/age-calculator'>codes<a/>
+ 
 
  
   
@@ -54,11 +48,7 @@
   <a href='https://trillo-elmi-elmi.netlify.app/'>trilo<a/>------- <a href='https://github.com/kiancodemy/trilo'>codes (flex box)<a/>
   <br>
   <a href='https://master--stunning-squirrel-db98b2.netlify.app/'>Nexter<a/>------- <a href='https://github.com/kiancodemy/Nexter'>codes (grid)<a/>
-  <h3> Tailwindcss</h3> 
-    <br>
-     <a href='https://elaborate-tulumba-3e0b4f.netlify.app/'>tailwind pro<a/>------- <a href='https://github.com/kiancodemy/tailwind-clipboard'>codes<a/>
-     <br>
-  
+ 
 
  
   <h2>TypeScript</h2>
