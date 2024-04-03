@@ -35,14 +35,7 @@
   
    # HTML & CSS
    <a href='https://omnifood-elmi-elmi.netlify.app/'>omnifood<a/>------- <a href='https://github.com/kiancodemy/Resturant-project-by-html-and-css'>codes<a/>
-      <br>
-    
-      
    
-  
-   
-     
-   <h2>SASS/SCSS</h2> 
   <br>
   
   <a href='https://trillo-elmi-elmi.netlify.app/'>trilo<a/>------- <a href='https://github.com/kiancodemy/trilo'>codes (flex box)<a/>
@@ -55,6 +48,14 @@
 
   <a href='https://majestic-horse-d7f643.netlify.app/'>TypeScript small<a/>------- <a href='https://github.com/kiancodemy/Typescript'>codes<a/>
         
+
+     
+    
+      
+   
+  
+   
+     
 
 
      
