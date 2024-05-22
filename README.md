@@ -5,11 +5,11 @@ My GitHub is a reflection of my journey as I explore new technologies, experimen
 ## projects && links 
  # React.js and Next.Js
    <span>chat app (socket.io)<span/>------- <a 
-    href='https://github.com/kiancodemy/mernstack'>codes<a/><span> (socket.io, Node, Express, React, material ui ,react-hook-form<span/> )
+    href='https://github.com/kiancodemy/mernstack'>codes<a/><span> (socket.io,Node, Express, React, material , Jwt authentication, ui ,react-hook-form<span/> )
      <br>
      
    <span>mern stack project<span/>------- <a 
-    href='https://github.com/kiancodemy/mernstack'>codes<a/><span> ( Node, Express, React, material ui , Redux-Toolkit and rtk query, react-hook-form<span/> )
+    href='https://github.com/kiancodemy/mernstack'>codes<a/><span> ( Node, Express, React, material ui , Redux-Toolkit and rtk query,Jwt authentication, react-hook-form<span/> )
      <br>
      
    <a href='https://luminous-cannoli-250e6a.netlify.app/'>Ecommerce project<a/>------- <a href='https://github.com/kiancodemy/ec'>codes<a/><span> ( React, React-hook-form, React-router, 
