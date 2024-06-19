@@ -10,7 +10,7 @@ My GitHub is a reflection of my journey as I explore new technologies, experimen
      
    <span>mern stack project<span/>------- <a 
    <span>chat app (socket.io)<span/>------- <a 
-    href='https://github.com/kiancodemy/mernstack'>codes<a/><span> (socket.io,Node, Express, React, material , Jwt authentication, ui ,react-hook-form<span/> )
+    href='https://github.com/kiancodemy/mernstack'>codes<a/><span> (socket.io,Node, Express, React, material ui , Jwt authentication,Redux-toolkit, react-hook-form<span/> )
      <br>
      
    <span>mern stack project<span/>------- <a 
