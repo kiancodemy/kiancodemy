@@ -4,7 +4,7 @@ My GitHub is a reflection of my journey as I explore new technologies, experimen
 
 ## projects && links 
  # React.js and Next.Js
-   <a href='https://famsec-nextjs.vercel.app/'>Full stack Admin Panel<a/>------- <a 
+   <a href='https://adminpanels.onrender.com/'>Full stack Admin Panel<a/>------- <a 
     href='https://github.com/kiancodemy/adminpanel'>codes<a/><span> (React,Redux-toolkit, typescript, Rechart, material ui, Express, mongodb <span/> )
      <br>
      
