@@ -3,7 +3,7 @@
 My GitHub is a reflection of my journey as I explore new technologies, experiment with cutting-edge frameworks, and refine my skills. Join me as I evolve alongside the ever-changing landscape of software development, always seeking better solutions and pushing the boundaries of what's possible.</p>
 
 ## projects && links 
- # React.js and Next.Js
+ # React and Next.Js
    <a href='https://adminpanels.onrender.com/'>Full stack Admin Panel<a/>------- <a 
     href='https://github.com/kiancodemy/adminpanel'>codes<a/><span> ( React, Redux-toolkit, typescript, Rechart, material ui, Express, mongodb <span/>)
     <br>
