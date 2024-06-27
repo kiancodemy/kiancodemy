@@ -8,7 +8,7 @@ My GitHub is a reflection of my journey as I explore new technologies, experimen
    <a href='https://github.com/kiancodemy/adminpanel'>codes<a/><span> ( React, Redux-toolkit, typescript, Rechart, material ui, Express, mongodb <span/>)
    <br>
 
-   <a href='https://chat-app-by-socket-io.onrender.com/'>Full stack chat app by socket<a/>------- 
+   <a href='https://chat-app-by-socket-io.onrender.com/'>Full stack chat app by socket<a/> -----
    <a href='https://github.com/kiancodemy/mernstack'>codes<a/><span> (React, socket.io, Node, Express, React, material ui, Jwt authentication, Redux-toolkit, react-hook-form )<span/>
    <br>
 
