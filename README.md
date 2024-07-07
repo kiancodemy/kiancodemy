@@ -22,11 +22,7 @@ My GitHub is a reflection of my journey as I explore new technologies, experimen
    <a href='https://chat-app-by-socket-io.onrender.com/'>Full stack online store<a/>------- <a 
    href='https://github.com/kiancodemy/mernstack'>codes<a/><span> ( Node, Express, React, material ui , Redux-Toolkit and rtk query,Jwt authentication, react-hook-form<span/> )
    <br>
-     
-   <a href='https://luminous-cannoli-250e6a.netlify.app/'>Ecommerce project<a/>------- <a href='https://github.com/kiancodemy/ec'>codes<a/><span> ( React, React-hook-form, React-router, 
- Tailwind, Use- 
-    context )<span/> 
-     <br>
+ 
      
   
      
