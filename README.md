@@ -4,6 +4,10 @@ My GitHub is a reflection of my journey as I explore new technologies, experimen
 
 ## projects && links 
  # React and Next.Js
+   <a href='https://adminpanel-rj85.onrender.com'>My Personal Website<a/>
+   
+   <br>
+   
    <a href='https://adminpanel-rj85.onrender.com'>Full stack Admin Panel<a/>------- 
    <a href='https://github.com/kiancodemy/adminpanel'>codes<a/><span> ( React, Redux-toolkit, typescript, Rechart, material ui, Express, mongodb <span/>)
    <br>
@@ -15,21 +19,16 @@ My GitHub is a reflection of my journey as I explore new technologies, experimen
 
      
      
-   <span>mern stack project<span/>------- <a 
-    href='https://github.com/kiancodemy/mernstack'>codes<a/><span> ( Node, Express, React, material ui , Redux-Toolkit and rtk query,Jwt authentication, react-hook-form<span/> )
-     <br>
+   <a href='https://chat-app-by-socket-io.onrender.com/'>Full stack online store<a/>------- <a 
+   href='https://github.com/kiancodemy/mernstack'>codes<a/><span> ( Node, Express, React, material ui , Redux-Toolkit and rtk query,Jwt authentication, react-hook-form<span/> )
+   <br>
      
    <a href='https://luminous-cannoli-250e6a.netlify.app/'>Ecommerce project<a/>------- <a href='https://github.com/kiancodemy/ec'>codes<a/><span> ( React, React-hook-form, React-router, 
  Tailwind, Use- 
     context )<span/> 
      <br>
      
-   <a href='https://famsec-nextjs.vercel.app/'>Next.js landing page<a/>------- <a href='https://github.com/kiancodemy/-nextjs-typescript'>codes<a/><span>( Next js ,Tailwind and 
-    Typescript )</span>
-     <br>
-     <a href='https://master--silver-donut-a4eee0.netlify.app/'>Next (Router)<a/>------- <a href='https://github.com/kiancodemy/Next.js-project-Router-'>codes<a/>
-     <br>
-      
+  
      
    
     
