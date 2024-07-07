@@ -9,7 +9,7 @@ My GitHub is a reflection of my journey as I explore new technologies, experimen
    <br>
    
    <a href='https://adminpanel-rj85.onrender.com'>Full stack Admin Panel<a/>------- 
-   <a href='https://github.com/kiancodemy/adminpanel'>codes<a/><span> ( React, Redux-toolkit, typescript, Rechart, material ui, Express, mongodb <span/>)
+   <a href='https://github.com/kiancodemy/adminpanel'>codes<a/><span> ( React, Redux-toolkit, typescript,Express, Rechart, material ui, mongodb,mongoose <span/>)
    <br>
 
    <a href='https://chat-app-by-socket-io.onrender.com/'>Full stack chat app by socket<a/> -----
