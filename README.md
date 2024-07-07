@@ -47,20 +47,6 @@ My GitHub is a reflection of my journey as I explore new technologies, experimen
 
  
   
-   # HTML & CSS
-   <a href='https://omnifood-elmi-elmi.netlify.app/'>omnifood<a/>------- <a href='https://github.com/kiancodemy/Resturant-project-by-html-and-css'>codes<a/>
-   
-  <br>
-  
-  <a href='https://trillo-elmi-elmi.netlify.app/'>trilo<a/>------- <a href='https://github.com/kiancodemy/trilo'>codes (flex box)<a/>
-  <br>
-  <a href='https://master--stunning-squirrel-db98b2.netlify.app/'>Nexter<a/>------- <a href='https://github.com/kiancodemy/Nexter'>codes (grid)<a/>
- 
-
- 
-  <h2>TypeScript</h2>
-
-  <a href='https://majestic-horse-d7f643.netlify.app/'>TypeScript small<a/>------- <a href='https://github.com/kiancodemy/Typescript'>codes<a/>
         
 
      
