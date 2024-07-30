@@ -7,7 +7,7 @@ My GitHub is a reflection of my journey as I explore new technologies, experimen
    <a href='https://www.shiraz-digital.com/'>My Personal site<a/>
  
    <a href='https://next-pro-1.onrender.com'>Full stack Ecommerce platform<a/>--- <a 
-   href='https://github.com/kiancodemy/next-pro'>codes<a/><span> ( Next.js,Type Node, Express, material ui , Redux-Toolkit and rtk query,Jwt authentication, react-hook-form<span/> )
+   href='https://github.com/kiancodemy/next-pro'>codes<a/><span> ( Next.js,Typescript, Node, Express, material ui , Redux-Toolkit and rtk query,Jwt authentication, react-hook-form<span/> )
    <br>
    
    <br>
