@@ -46,33 +46,6 @@ My GitHub is a reflection of my journey as I explore new technologies, experimen
  
        
 
-# JavaScript
-  <a href='https://exquisite-sunburst-6ac1e8.netlify.app'>lazyloading <a/>------- <a href='https://github.com/kiancodemy/lazy'>codes<a/>
-    <br>
- 
-    
-  <a href='https://glittery-pothos-b39059.netlify.app/'>CountDown<a/>------- <a href='https://github.com/kiancodemy/Countdown-project'>codes<a/>
-  <br>
- 
-
- 
-  
-        
-
-     
-    
-      
-   
-  
-   
-     
-
-
-     
-
- 
-
-  
 
  
   
