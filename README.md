@@ -11,7 +11,7 @@ My GitHub is a reflection of my journey as I explore new technologies, experimen
    <br>
    
    <br>
-   <a href='https://kian-gnik.onrender.com/Dashboard'>Full stack Graphql project<a/>----
+   <a href='https://graphql-ky63.onrender.com'>Full stack Graphql project<a/>----
    <a href='https://github.com/kiancodemy/graphql'>codes<a/><span> (Apolo server,Apolo client,Next.js,PWA ,Typescript, Zustand, Express,Chart.js, Mongodb, Mongoose <span/>)
    <br></br>
     
