@@ -20,7 +20,7 @@ My GitHub is a reflection of my journey as I explore new technologies, experimen
    <br>
    
    <a href='https://chat-app-by-socket-io.onrender.com/'>Full stack chat app by socket<a/> -----
-   <a href='https://github.com/kiancodemy/mernstack'>codes<a/><span> (React, Socket.io, Node, Express, React, material ui, Jwt authentication, Redux-toolkit, react-hook-form )<span/>
+   <a href='https://github.com/kiancodemy/chat-app-by-socket.io'>codes<a/><span> (React, Socket.io, Node, Express, React, material ui, Jwt authentication, Redux-toolkit, react-hook-form )<span/>
    <br>
      
    <a href='https://fullstack-pro.onrender.com/'>Full stack online store<a/>------- <a 
