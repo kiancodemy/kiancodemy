@@ -4,7 +4,7 @@ My GitHub is a reflection of my journey as I explore new technologies, experimen
 
 ## projects && links 
  # React and Next.Js
-   <a href='https://parstasmim.liara.run'>Pars tasmim task<a/>----
+   <a href='https://parstasmim.liara.run'> task<a/>----
    <a href='https://github.com/kiancodemy/pars-tasmim-task'>codes<a/>
    <br></br>
    <a href='https://www.shiraz-digital.com/'>My Personal site<a/>
