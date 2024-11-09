@@ -4,11 +4,8 @@ My GitHub is a reflection of my journey as I explore new technologies, experimen
 
 ## projects && links 
  # React and Next.Js
-  
-   <a href='https://www.shiraz-digital.com/'>My Personal site<a/>
 
-     
-   <br>
+
    <a href='https://graphql-ky63.onrender.com'>Full stack Graphql project<a/>----
    <a href='https://github.com/kiancodemy/graphql'>codes<a/><span> (Apolo server, Apolo client, Next.js, PWA ,Typescript, Zustand, Express,Chart.js, Mongodb, Mongoose <span/>)
    <br></br>
