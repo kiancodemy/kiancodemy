@@ -2,7 +2,7 @@
 
 My GitHub is a reflection of my journey as I explore new technologies, experiment with cutting-edge frameworks, and refine my skills. Join me as I evolve alongside the ever-changing landscape of software development, always seeking better solutions and pushing the boundaries of what's possible.</p>
    Gmail : kiankheirani@gmail.com  <br></br>
-  <a href="https://www.linkedin.com/in/kianoosh-kheirani-2b774426b/">My linkein (click)</a>
+  <a href="https://www.linkedin.com/in/kianoosh-kheirani-2b774426b/">My linkein ( Click )</a>
 
 ## projects && links 
  # React and Next.Js
