@@ -17,9 +17,6 @@ My GitHub is a reflection of my journey as I explore new technologies, experimen
      <span>Full stack Ecommerce project (in progress)<span/>----
    <a href='https://github.com/kiancodemy/socket-2'>codes<a/><span> (React, Ant Design,Typescript, Cypress, React slick,rtk query, Redux-toolkit persist, Typescript,Express, Mongodb, Mongoose, Mongoose <span/>)
    <br></br>
-    <a href='https://chat-app-by-socket-io.onrender.com/'>Full stack chat app by socket<a/> -----
-   <a href='https://github.com/kiancodemy/chat-app-by-socket.io'>codes<a/><span> (React, Socket.io, Node, Express, React, material ui, Jwt authentication, Redux-toolkit, react-hook-form     <span/>
-   <br></br>
  
    <a href='https://next-pro-1.onrender.com'>Full stack Ecommerce platform (click)<a/>--- <a 
    href='https://github.com/kiancodemy/next-pro'>codes<a/><span> ( Next.js, Typescript, Node, Express, tailwind , Redux-Toolkit and rtk query,Jwt authentication, react-hook-form<span/> )
