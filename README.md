@@ -20,7 +20,7 @@ My GitHub is a reflection of my journey as I explore new technologies, experimen
    <a href='https://github.com/kiancodemy/back-chat'>backend codes<a/>-----<a href='https://github.com/kiancodemy/front-chat'>frontend codes<a/><span> (React,daisy ui, socket.io, zustand ,Typescript, Typescript,Express, Mongodb, Mongoose, Mongoose <span/>)
    <br></br>
       
-   <a href='https://frontadmin-xnvk.onrender.com/'>Full stack Admin Panel(click)<a/>------- 
+   <a href='https://admin-panel-pi-orpin.vercel.app'>Full stack Admin Panel(click)<a/>------- 
    <a href='https://github.com/kiancodemy/adminpanel'>codes<a/><span> ( React, Redux-toolkit, Typescript,Express, Rechart, Material ui, Mongodb, Mongoose <span/>)
    <br></br>
      <span>Full stack Ecommerce project (in progress)<span/>----
