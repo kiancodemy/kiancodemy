@@ -29,7 +29,7 @@ My GitHub is a reflection of my journey as I explore new technologies, experimen
  
  
  
-   <a href='https://github.com/kiancodemy/express-crud-and-authentication'>express and jwt authentication (code)<a/><span>( express ,Jwt authentication,mongodb, mongoose )          <span/>
+   <a href='https://github.com/kiancodemy/express-crud-and-authentication'>express and jwt authentication (code)<a/><span>(docker,githubactions, express ,Jwt authentication,mongodb, mongoose )          <span/>
    <br></br>
 
  
