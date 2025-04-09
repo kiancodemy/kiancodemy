@@ -10,15 +10,15 @@ My GitHub is a reflection of my journey as I explore new technologies, experimen
    <a href='https://visist.netlify.app/'> My Portfolio WebSite(click)<a/>
     
    <a href='https://nextjs-ecommerce-ashen-two.vercel.app'>Full stack Ecommerce platform (click)<a/>--- <a 
-   href='https://github.com/kiancodemy/next-pro'>codes<a/><span> ( Next.js, Typescript, Node, Express, tailwind , Redux-Toolkit and rtk query,Jwt authentication, react-hook-form<span/> )
+   href='https://github.com/kiancodemy/next-pro'>codes<a/><span> ( Next.js, Typescript, Node, Express, tailwind, vercel, Railway , Redux-Toolkit and rtk query,Jwt authentication, react-hook-form<span/> )
    <br>
 
 
    <a href='https://graphql-self-nine.vercel.app/'>Full stack Graphql project (click) <a/>----
-   <a href='https://github.com/kiancodemy/graphql'>codes<a/><span> (Apolo server, Apolo client, Next.js, PWA ,Typescript, Zustand, Express,Chart.js, Mongodb, Mongoose <span/>)
+   <a href='https://github.com/kiancodemy/graphql'>codes<a/><span> (Apolo server, Apolo client, Next.js,vercel, PWA ,Typescript, Zustand, Express,Chart.js, Mongodb, Mongoose <span/>)
    <br></br>
     <a href='https://socket-livid.vercel.app/'>Full stack chat app by socket.io (click)<a/>----
-   <a href='https://github.com/kiancodemy/back-chat'>backend codes<a/>-----<a href='https://github.com/kiancodemy/front-chat'>frontend codes<a/><span> (React,daisy ui, socket.io, zustand ,Typescript, Typescript,Express, Mongodb, Mongoose, Mongoose <span/>)
+   <a href='https://github.com/kiancodemy/back-chat'>backend codes<a/>-----<a href='https://github.com/kiancodemy/front-chat'>frontend codes<a/><span> (React,daisy ui, socket.io,vercel, zustand ,Typescript, Typescript,Express, Mongodb, Mongoose, Mongoose <span/>)
    <br></br>
       
    <a href='https://admin-panel-pi-orpin.vercel.app'>Full stack Admin Panel(click)<a/>------- 
