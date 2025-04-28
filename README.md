@@ -21,16 +21,7 @@ My GitHub is a reflection of my journey as I explore new technologies, experimen
    <a href='https://github.com/kiancodemy/back-chat'>backend codes<a/>-----<a href='https://github.com/kiancodemy/front-chat'>frontend codes<a/><span> (React,daisy ui, socket.io,vercel, zustand ,Typescript, Typescript,Express, Mongodb, Mongoose, Mongoose <span/>)
    <br></br>
       
-   <a href='https://admin-panel-pi-orpin.vercel.app'>Full stack Admin Panel(click)<a/>------- 
-   <a href='https://github.com/kiancodemy/admin-front'>front-code<a/>-----<a href='https://github.com/kiancodemy/admin-back'>backend-code<a/><span> ( React, Redux-toolkit, Typescript,Express, Rechart, Material ui, Mongodb, Mongoose <span/>)
-   <br></br>
-     <span>Full stack Ecommerce project (in progress)<span/>----
-   <a href='https://github.com/kiancodemy/socket-2'>codes<a/><span> (React, Ant Design,Typescript, Cypress, React slick,rtk query, Redux-toolkit persist, Typescript,Express, Mongodb, Mongoose, Mongoose <span/>)
- 
- 
- 
-   <a href='https://github.com/kiancodemy/express-crud-and-authentication'>express and jwt authentication (code)<a/><span>( Docker,github Actions, express ,Jwt authentication,mongodb, mongoose )          <span/>
-   <br></br>
+   
 
  
  
